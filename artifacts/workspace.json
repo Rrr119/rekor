@@ -1,0 +1,17 @@
+{
+  "root": "/home/dev/feedback/uid28727",
+  "B": "/home/dev/feedback/uid28727",
+  "sha": "3b452ceb0900b3d6c764162b8bb97c5321e7b7b5",
+  "wslDistro": "Ubuntu-26.04",
+  "source": {
+    "owner": "sigstore",
+    "repo": "rekor",
+    "sha": "3b452ceb0900b3d6c764162b8bb97c5321e7b7b5"
+  },
+  "fork": {
+    "owner": "Rrr119",
+    "repo": "rekor",
+    "cloneUrl": "https://github.com/Rrr119/rekor.git"
+  },
+  "at": "2026-11-19T20:50:33.982Z"
+}
